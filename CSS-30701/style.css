@@ -1,0 +1,80 @@
+/* start your styling here  */
+*{
+    margin: 0;
+}
+
+.sub-container{
+    border: 5px solid;
+    border: none;
+    background-color: black;
+    height: 55vh;
+    width: 27vw;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    border-radius: 5px; 
+}
+.small-box{
+    border: 3px solid black;
+    border: none;
+    width: 105px;
+    height: 45px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: mediumpurple;
+    color:white;
+   
+   
+}
+.big-box{
+    border: 3px solid  #121212;
+    width: 22vw;
+    height: 45px;
+    border-radius: 4px;
+    background-color: white;
+    color:white;
+    display: flex;
+    justify-content: flex-start;
+    
+    
+}
+
+.small-box-1{
+    border: 3px solid black;
+    border: none;
+    width: 50px;
+    height: 45px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: mediumpurple;
+    color:white;
+}
+.small-box-2{
+    border: 3px solid black;
+    border: none;
+    width: 105px;
+    height: 45px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color:white;
+}
+.small-box-3{
+    border: 3px solid black;
+    border: none;
+    width: 50px;
+    height: 46px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    margin-top: 2px;
+    color:white;
+}
